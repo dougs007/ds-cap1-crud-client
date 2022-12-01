@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nelio', '09877662512', 5000.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fabiola', '09877662512', 2500.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcus', '09877662512', 1530.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joao', '09877662512', 1000.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Felipe', '09877662512', 1740.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marinalva', '09877662512', 5320.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Douglas', '09877662512', 3542.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcelo', '09877662512', 7500.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Beatriz', '09877662512', 5050.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sandra', '09877662512', 9500.0, TIMESTAMP WITH TIME ZONE '2022-11-30T21:00:00Z', 1);
